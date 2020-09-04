@@ -5,7 +5,7 @@ public class test01 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		private String food;
-		private int BigAttack;
+		private int lifenumbeer;
 		int a = 3, b = 4;
 		if ( a++ >= 3 || b-- <= 3){
 		System.out.println("1:" + a + ":"+ b);
